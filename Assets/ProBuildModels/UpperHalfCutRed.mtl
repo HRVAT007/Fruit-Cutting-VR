@@ -1,0 +1,10 @@
+newmtl Prototype_512x512_Red
+map_Kd prototype_512x512_red.png
+bump prototype_512x512_normal.png
+Kd 1 1 1
+d 0
+
+newmtl Default-Material
+Kd 1 1 1
+d 1
+
